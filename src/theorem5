@@ -1,0 +1,8 @@
+((happy x)) ((pass x exams) (win x game))
+((pass x y)) ((study x))
+((pass x y)) ((lucky x))
+() ((study Tom))
+((lucky Tom)) ()
+((win x game)) ((lucky x))
+goal
+() ((happy Tom))

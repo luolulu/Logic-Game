@@ -1,0 +1,8 @@
+((howl z)) ((hound z))
+() ((have x y) (cat y) (have x z) (mouse z))
+() ((ls w) (have w v) (howl v))
+((have John A)) ()
+((cat A) (hound A)) ()
+((mouse B)) ()
+((ls John)) ()
+((have John B)) ()
